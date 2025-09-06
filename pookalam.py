@@ -1,6 +1,3 @@
-from joy import *
-import IPython
-
 c1 =circle(r=150,fill="black")
 r1 =rectangle(w=210,h=210,fill="brown",stroke="brown") | repeat(15, rotate(50))
 r2 =rectangle(w=195,h=195,fill="red",stroke="red") | rotate(15) | repeat(15, rotate(50))
