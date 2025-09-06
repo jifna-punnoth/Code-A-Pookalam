@@ -1,32 +1,18 @@
 <img width="1920" height="1080" alt="event app size (1)" src="https://github.com/user-attachments/assets/9c18c1de-1249-41ca-9561-1bc003606551" />
 
 # Code-A-Pookalam 🌸
-Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled from September 1–6, where tradition meets technology! 🌼
-
-
-### Your Details
-- [Name] - [Branch] - [Semester]
-
-
-
-### Hosted Pookalam Link
-
-
-
-### Pookalam Description
-Brief description about your pookalam. What makes it special and different.
-
-
+- Jifna Punnoth - B.Tech IT - S1
 
 ### Technologies Used 
+This project is created using Joy: a creative coding library in python used to create shapes and fill colours. The interpreter for Joy is hosted on the website https://anandology.com.
 
-
-### Video explaining How you build the pookalam
-
-
+### To Run
+- Copy the code
+- Go to https://anandology.com/ and paste the code
+- Run the program
 
 ### Screenshots
-
+![IMG-20250906-WA0036](https://github.com/user-attachments/assets/c3c2a65d-bbc3-4440-8e27-38679bc5e99c)
 
 
 Happy Onam ! <br>
